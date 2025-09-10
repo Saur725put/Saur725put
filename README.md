@@ -1,3 +1,15 @@
+Hi 👋, I'm SAURABH KUMAR SINGH
+
+🌱 I’m a full stack web developer.
+
+
+
+💬 Ask me about Html5, Css3, JavaScript, react, bootstrap, mongodb, node, express.
+
+
+
+📫 How to reach me ssaurabhsingh548@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rsk-saurabh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssaurabhsingh548@gmail.com) 
